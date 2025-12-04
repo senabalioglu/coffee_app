@@ -44,9 +44,14 @@ Kullanıcıların kahve çeşitlerini keşfedebileceği, favori ürünlerini yö
 
 ## 📸 Ekran Görselleri
 
-![Ana Sayfa](assets/images/home.png)
-![Ürün Detay](assets/images/detail.png)
-![Favoriler](assets/images/favorites.png)
-![Kahve Tarifleri](assets/images/recipes.png)
-![Market](assets/images/market.png)
-![Kullanıcı Profili](assets/images/profile.png)
+<p float="left">
+  <img src="assets/images/home.png" width="250" />
+  <img src="assets/images/detail.png" width="250" />
+  <img src="assets/images/favorites.png" width="250" />
+</p>
+
+<p float="left">
+  <img src="assets/images/recipes.png" width="250" />
+  <img src="assets/images/market.png" width="250" />
+  <img src="assets/images/profile.png" width="250" />
+</p>
