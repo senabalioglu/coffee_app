@@ -1,16 +1,53 @@
-# coffeeyeter
+# ☕ Coffee Order App – Flutter
 
-A new Flutter project.
+Flutter ile Dart programlama dili kullanılarak geliştirilmiş modern bir kahve sipariş uygulaması.  
+Kullanıcılar hesap oluşturabilir, kahve ürünlerini inceleyebilir, sipariş verebilir, favori listesi oluşturabilir ve uygulama içindeki kahve tariflerine erişebilir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Projenin Amacı
+Kullanıcıların kahve çeşitlerini keşfedebileceği, favori ürünlerini yönetebileceği, sipariş oluşturabileceği ve çeşitli kahve tariflerine ulaşabileceği kapsamlı bir mobil uygulama geliştirmek.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Uygulama Özellikleri
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛒 Sipariş & Ürün Yönetimi
+- Kahve ürünlerini listeleme  
+- Ürün detaylarını görüntüleme  
+- Sepete ürün ekleme ve sepetten çıkarma  
+- Sipariş oluşturma  
+
+### ⭐ Favori Ürünler
+- Kullanıcı favori kahvelerini işaretleyebilir  
+- Favoriler sayfasından listeyi görüntüleyebilir  
+- Favorilerden çıkarma işlemi yapabilir  
+
+### 📖 Kahve Tarifleri
+- Özel tarifler bölümü  
+- Farklı kahve türleri hakkında hazırlama tarifleri  
+- Tarif detay sayfaları  
+
+### 👤 Kullanıcı İşlemleri
+- Kullanıcı hesabı oluşturma  
+- Giriş yapma  
+- Hesap bilgilerine göre kişiselleştirilmiş içerik  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- **Flutter**
+- **Dart**
+- **Android Studio**
+
+---
+
+## 📸 Ekran Görselleri
+
+```md
+![Ana Sayfa](assets/images/home.png)
+![Ürün Detay](assets/images/detail.png)
+![Favoriler](assets/images/favorites.png)
+![Kahve Tarifleri](assets/images/recipes.png)
+![Market](assets/images/market.png)
+![Kullanıcı Profili](assets/images/profile.png)
