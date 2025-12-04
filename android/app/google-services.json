@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "335134128874",
+    "project_id": "fir-coffee-yeter",
+    "storage_bucket": "fir-coffee-yeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335134128874:android:0163567542b95de2c87593",
+        "android_client_info": {
+          "package_name": "com.example.coffeeyeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335134128874-21gak41ice0egd7h95cccqt80edu0vdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52pZEeUer8AotxQgV5bXeQfYEUadQj20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335134128874-21gak41ice0egd7h95cccqt80edu0vdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335134128874-6reucbfpi07brje8kaa3bnpvhoh13au1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffeeyeter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
