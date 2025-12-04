@@ -44,7 +44,6 @@ Kullanıcıların kahve çeşitlerini keşfedebileceği, favori ürünlerini yö
 
 ## 📸 Ekran Görselleri
 
-```md
 ![Ana Sayfa](assets/images/home.png)
 ![Ürün Detay](assets/images/detail.png)
 ![Favoriler](assets/images/favorites.png)
